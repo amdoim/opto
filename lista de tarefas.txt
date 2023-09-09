@@ -1,0 +1,4 @@
+comer 
+correr
+andar
+
